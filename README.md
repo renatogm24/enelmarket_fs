@@ -25,7 +25,7 @@ enelmarket.com
 </p>
 <p align="center">
   <a href="https://www.emprendeadvisor.com/" target="_blank">
-    <img src="https://github.com/renatogm24/enelmarket_fs/frontend/public/bgimage.jpg"
+    <img src="https://github.com/renatogm24/enelmarket_fs/blob/main/frontend/public/bgimage.jpg"
          alt="Logo banner" width="500px">
   </a>
   </p>
