@@ -1,0 +1,46 @@
+.hero_media {
+    min-width: 140px;
+    max-width: 140px;
+    min-height: 140px;
+    position: relative;
+    /*box-shadow: rgb(20, 20, 20) 0 0 10px;*/
+    border: 1px solid rgb(20, 20, 20, 0.3);
+    background-color: white;
+    border-radius: 15px;
+}
+
+.image {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+    border-radius: 15px;
+}
+
+.imageGrid {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+    border-radius: 15px;
+    max-height: 160px;
+}
+
+.imageCartBx {
+    max-width: 72px;
+    min-width: 68px;
+    height: 72px;
+}
+
+.product_media {
+    min-width: 140px;
+    max-width: 140px;
+    max-height: 70px;
+    position: relative;
+    background-color: white;
+}
+
+.image_product {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+    border-radius: 15px;
+}
